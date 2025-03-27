@@ -1,3 +1,4 @@
+Elif TÜFEKCİ 221101004
 # Bil395_HW2
 
 RUST dosyasını çalıştırmak için
